@@ -34,6 +34,7 @@ El proyecto está escrito en Python. Así que es prudente que en su sistema algu
 
 
 ## Contribuidores y contacto:
-* Carlos Elishah Candanosa Salazar: Discretización de ecuaciones e implementación del Código.
+* Carlos Elishah Candanosa Salazar: Discretización de ecuaciones e implementación del Código. En caso de tener alguna sugerencia o pregunta, ¡no duden en contactarme a mi correo institucional, carlos.candanosa@correo.nucleares.unam.mx!
+  
 * Carlos Alejandro Ávila Hernández: Modelo Teórico y Documentación.
-En caso de tener alguna sugerencia o pregunta, ¡no duden en contactarme a mi correo institucional, carlos.candanosa@correo.nucleares.unam.mx!
+
