@@ -2,6 +2,8 @@
 
 Un simulador numérico para la dinámica de fluidos que resuelve las Ecuaciones de Aguas Someras en dos dimensiones. Este código modela la evolución del flujo alrededor de un islote topográfico, calculando las fuerzas hidrodinámicas y diagnosticando el régimen del flujo.
 
+![Uploading Gemini_Generated_Image_1i8t381i8t381i8t.png…]()
+
 ## Demostración Visual
 
 *(Espacio reservado para la animación de la simulación)*
