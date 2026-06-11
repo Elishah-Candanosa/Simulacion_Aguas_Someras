@@ -6,7 +6,13 @@ Un simulador numérico para la dinámica de fluidos que resuelve las Ecuaciones 
 
 ## Demostración Visual
 
-*(Espacio reservado para la animación de la simulación)*
+A continuación se muestra la simulación que el código genera tal cual está en este repositorio. Tenga en consideración que esta simulación se aceleró para su mejor visualización, en el código la animación va **bastante** más lento.
+
+https://github.com/user-attachments/assets/f42a8971-5cc0-4842-ac14-fed41b4b5a75
+
+
+
+
 
 *(Espacio reservado para video secundario o gráficas)*
 
