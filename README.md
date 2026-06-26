@@ -2,7 +2,7 @@
 
 Un simulador numérico para la dinámica de fluidos que resuelve las Ecuaciones de Aguas Someras en dos dimensiones. Este código modela la evolución del flujo alrededor de un islote topográfico, calculando las fuerzas hidrodinámicas y diagnosticando el régimen del flujo.
 
-<!--<img width="2816" height="1369" alt="Islote_Demon" src="https://github.com/user-attachments/assets/77139f4d-9234-4356-88d2-0590ff4b6856" />-->
+<img width="2816" height="1369" alt="Islote_Demon" src="https://github.com/user-attachments/assets/77139f4d-9234-4356-88d2-0590ff4b6856" />
 
 ## Demostración Visual
 
