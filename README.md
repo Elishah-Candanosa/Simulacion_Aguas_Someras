@@ -10,12 +10,6 @@ A continuación se muestra la simulación que el código genera tal cual está e
 
 https://github.com/user-attachments/assets/f42a8971-5cc0-4842-ac14-fed41b4b5a75
 
-
-
-
-
-*(Espacio reservado para video secundario o gráficas)*
-
 ## Física y Métodos Numéricos
 
 El simulador resuelve el sistema hiperbólico de conservación de masa y momento bidimensional en presencia de una topografía de fondo $z_b$:
